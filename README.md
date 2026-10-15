@@ -44,3 +44,4 @@ C++
 ## ✅ Key Concept
 
 **Staircase Search** eliminates one row or one column at each step, making the search efficient.
+
